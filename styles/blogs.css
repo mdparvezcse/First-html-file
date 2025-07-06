@@ -1,0 +1,59 @@
+nav li {
+    display: inline;
+    margin-right: 16px;
+    float: right;
+    padding: 10px;
+}
+.home {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav li:hover {
+    background-color: tomato;
+}
+figcaption{
+    /* padding-left: 120px; */
+    text-align: center;
+}
+address{
+    float: right;
+    color: white;
+}
+#link{
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin-left: 20px;
+    color: white;
+}
+footer{
+    background-color: rgba(51, 77, 80, 0.523);
+    display: block;
+    height: 300px;
+    padding: 10px;
+}
+#last{
+    text-align: center;
+    font-style: italic;
+    margin-top:0px;
+    padding-top: 200px;
+}
+main{
+    margin: 10px;
+}
