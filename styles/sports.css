@@ -1,0 +1,24 @@
+form{
+    display: block;
+    height: 80px;
+    width: 20%;
+    background-color: rgb(114, 109, 119);
+    text-align: center;
+    padding-top: 20px;
+    /* margin-left: 200px; */
+    box-shadow: 10px 10px 10px rgb(108, 158, 151);
+    border-radius: 10px;
+    border: 10px solid rgba(22, 97, 141, 0.267);
+}
+input[type="text"]{
+    background-color: rgb(72, 73, 142);
+    color: #000;
+}
+input[type="email"]{
+    background-color: rgb(72, 73, 142);
+    color: #000;
+}
+input[type="password"]{
+    background-color: rgb(72, 73, 142);
+    color: #000;
+}
