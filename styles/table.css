@@ -1,0 +1,13 @@
+th,td{
+    margin: 10px;
+    padding: 10px;
+}
+main table{
+    background-color: antiquewhite;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+th,tr:nth-child(even){
+    background-color: rgba(61, 225, 231, 0.627);
+}
